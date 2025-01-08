@@ -1,0 +1,13 @@
+.blogs{
+    text-align: start;
+}
+
+.blogs li{
+    margin-bottom: 2vh;
+    list-style: none;
+}
+
+.blogs li a{
+    text-decoration: none;
+}
+
